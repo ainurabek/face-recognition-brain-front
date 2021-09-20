@@ -10,8 +10,6 @@ import './App.css';
 import React, {Component} from 'react';
 
 
-
-
 const particleOptions = {
   "particles": {
     "number": {
